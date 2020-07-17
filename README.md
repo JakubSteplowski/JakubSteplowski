@@ -1,4 +1,4 @@
-### 🌍 [jakubsteplow.ski](https://jakubsteplow.ski)
+### 👉 [jakubsteplow.ski](https://jakubsteplow.ski) && [twitter](https://twitter.com/jakubsteplowski) && [behance](https://www.behance.net/jakubsteplowski)
 
 <!--
 **JakubSteplowski/JakubSteplowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
