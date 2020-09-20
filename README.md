@@ -1,5 +1,7 @@
-### 👉 [jakubsteplow.ski](https://jakubsteplow.ski) && [twitter](https://twitter.com/jakubsteplowski) && [behance](https://www.behance.net/jakubsteplowski)<br>
-👉 [versefy.app](https://versefy.app)
+### [jakubsteplow.ski](https://jakubsteplow.ski)<br>
+[versefy.app](https://versefy.app)<br>
+[twitter](https://twitter.com/jakubsteplowski)<br>
+[behance](https://www.behance.net/jakubsteplowski)
 
 <!--
 **JakubSteplowski/JakubSteplowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
