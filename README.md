@@ -3,6 +3,9 @@
 [twitter](https://twitter.com/jakubsteplowski)<br>
 [behance](https://www.behance.net/jakubsteplowski)
 
+[![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubsteplowski&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Profile View Counter](https://komarev.com/ghpvc/?username=jakubsteplowski)
+
 <!--
 **JakubSteplowski/JakubSteplowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
